@@ -1,7 +1,7 @@
 ## 👋 Hey, I'm Anmol Pandey  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&width=600&lines=Aspiring+Data+Analyst+%7C+Data+Scientist;Tech+Enthusiast+%7C+LPU+Student;Love+to+turn+Data+into+Insights" alt="Typing Intro" />
+  <img src="WhatsApp Image 2025-08-20 at 00.20.06_26dfa741.jpg" alt="Typing Intro" />
 </p>
 
 ---
