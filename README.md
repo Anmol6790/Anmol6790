@@ -32,6 +32,7 @@ I have also completed an internship in R Programming, where I gained hands-on ex
 
 📫 **Reach Me At:** `anmolpandey6790@gmail.com`
 📫 **Reach Me At Linkedin:** `anmol-pandey-08b864297`
+</p>
 
 ---
 
