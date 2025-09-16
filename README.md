@@ -5,10 +5,11 @@
 </p>
 
 <p align="center">
-  🎓 BCA 2nd Year @ Lovely Professional University <br>
-  📊 Aspiring <b>Data Analyst | Data Scientist</b> <br>
-  ✨ Turning <b>Data → Insights</b>
-  I am Anmol Pandey, a third-year Bachelor of Computer Applications (BCA) student at Lovely Professional University, passionate about software development, data analysis, and visualization. With a strong foundation in programming and problem-solving, I have worked on several academic projects that enhanced both my technical and analytical skills.
+🎓 BCA 2nd Year @ Lovely Professional University <br>
+ 📊 Aspiring <b>Data Analyst | Data Scientist</b> <br>
+✨ Turning <b>Data → Insights</b
+                                
+I am Anmol Pandey, a third-year Bachelor of Computer Applications (BCA) student at Lovely Professional University, passionate about software development, data analysis, and visualization. With a strong foundation in programming and problem-solving, I have worked on several academic projects that enhanced both my technical and analytical skills.
 
 Some of my key projects include:
 WHO Dataset Analysis in R – examined global health and life expectancy trends using R programming.
