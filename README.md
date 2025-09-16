@@ -34,6 +34,83 @@ I have also completed an internship in R Programming, where I gained hands-on ex
 📫**Reach Me At LinkedIn:** `anmol-pandey-08b864297`
 
 ---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Certificates</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #0d1117; /* GitHub dark background */
+      color: #ffffff;
+      padding: 20px;
+    }
+    h2 {
+      color: #facc15; /* Yellow heading */
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 15px;
+    }
+    table, th, td {
+      border: 1px solid #30363d;
+    }
+    th, td {
+      padding: 12px;
+      text-align: left;
+    }
+    th {
+      background-color: #161b22;
+      color: #58a6ff;
+    }
+    tr:nth-child(even) {
+      background-color: #161b22;
+    }
+    tr:hover {
+      background-color: #21262d;
+    }
+  </style>
+</head>
+<body>
+
+  <h2>📜 Certificates</h2>
+
+  <table>
+    <tr>
+      <th>Certificate Name</th>
+      <th>Issued By</th>
+      <th>Platform</th>
+    </tr>
+    <tr>
+      <td>R Programming</td>
+      <td>Coursera</td>
+      <td>Coursera</td>
+    </tr>
+    <tr>
+      <td>Data Visualization in Python</td>
+      <td>Infosys Springboard</td>
+      <td>Infosys Springboard</td>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>Cypher School</td>
+      <td>Cypher School</td>
+    </tr>
+    <tr>
+      <td>Power BI</td>
+      <td>Infosys Springboard</td>
+      <td>Infosys Springboard</td>
+    </tr>
+  </table>
+
+</body>
+</html>
+
+---
+---
 
 ### 🚀 Skills  
 <p align="center">
