@@ -1,30 +1,18 @@
-## 👋 Hey, I'm Anmol Pandey  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=58A6FF&center=true&vCenter=true&width=550&lines=👋+Hi,+I'm+Anmol+Pandey;💻+Data+Science+Enthusiast;🚀+Future+Data+Analyst;🔥+Loves+Problem+Solving" />
+</h1>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Profile Intro</title>
-</head>
-<body>
-  <p>🎓 BCA 3rd Year @ Lovely Professional University</p>
-  <p>📊 Aspiring <b>Data Analyst</b> | <b>Data Scientist</b></p>
-  <p>✨ Turning <b>Data</b> → <b>Insights</b></p>
-  <p>💡 Fun Fact: I enjoy solving <b>complex problems</b> & building cool projects</p>
-</body>
-</html>
+<p align="center">
+  <img src="WhatsApp Image 2025-08-20 at 00.20.06_26dfa741.jpg" alt="Anmol Pandey" height="400"/>
+</p>
+
+<p align="center">
+🎓 BCA 3rd Year @ Lovely Professional University <br>
+📊 Aspiring <b>Data Analyst | Data Scientist</b> <br>
+✨ Turning <b>Data → Insights </b> <br>
+💡 Fun Fact: I enjoy solving complex problems & building cool projects </b> </b>
 
 I am Anmol Pandey, a third-year Bachelor of Computer Applications (BCA) student at Lovely Professional University, passionate about software development, data analysis, and visualization. With a strong foundation in programming and problem-solving, I have worked on several academic projects that enhanced both my technical and analytical skills.
-
-Some of my key projects include:
-WHO Dataset Analysis in R – examined global health and life expectancy trends using R programming.
-Amazon Sales Analysis in Power BI – created interactive dashboards, KPIs, and data models to study sales performance. 
-AI-Based Chatbot for Customer Support – developed a chatbot prototype to improve user interaction as part of my software engineering coursework.
-Job Portal Website – designed a basic job portal using HTML and CSS for frontend development.
-Analyzing Student Depression Using R – performed statistical analysis to identify factors influencing student mental health.
-I have also completed an internship in R Programming, where I gained hands-on experience in data analysis. Currently, I am learning Tableau and advanced visualization techniques to further strengthen my expertise.
-</p>
 
 ---
 
@@ -38,6 +26,14 @@ I have also completed an internship in R Programming, where I gained hands-on ex
 
 📫**Reach Me At:** `anmolpandey6790@gmail.com`  
 📫**Reach Me At LinkedIn:** `anmol-pandey-08b864297`
+
+---
+---
+| **Project Name**                   | **Description**                                                   | **Link** |
+|------------------------------------|-------------------------------------------------------------------|----------|
+| **WHO Dataset Analysis in R**      | Analyzed health and life expectancy factors using R programming. | [View Project](https://rpubs.com/anmol_01/LifeExpectancy) |
+| **Amazon Sales Analysis in Power BI** | Interactive dashboards with sales KPIs, DAX measures & insights. | [View Project](https://app.fabric.microsoft.com/links/xd7b2ar9kO?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare) |
+| **Job Portal Website**             | Simple job portal built using HTML & CSS for frontend design.    | [View Project](https://job-portal-topaz-nu.vercel.app/index.html) |
 
 ---
 <h2>📜 Certificates</h2>
@@ -96,3 +92,8 @@ I have also completed an internship in R Programming, where I gained hands-on ex
 ---
 
 ✨ *"Data is the new oil, but insights are the new gold!"*
+---
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+---
