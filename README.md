@@ -1,15 +1,20 @@
 ## 👋 Hey, I'm Anmol Pandey  
 
-<p align="center">
-  <img src="WhatsApp Image 2025-08-20 at 00.20.06_26dfa741.jpg" alt="Anmol Pandey" height="400"/>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Profile Intro</title>
+</head>
+<body>
+  <p>🎓 BCA 3rd Year @ Lovely Professional University</p>
+  <p>📊 Aspiring <b>Data Analyst</b> | <b>Data Scientist</b></p>
+  <p>✨ Turning <b>Data</b> → <b>Insights</b></p>
+  <p>💡 Fun Fact: I enjoy solving <b>complex problems</b> & building cool projects</p>
+</body>
+</html>
 
-<p align="center">
-🎓 BCA 3rd Year @ Lovely Professional University <br>
-📊 Aspiring <b>Data Analyst | Data Scientist</b> <br>
-✨ Turning <b>Data → Insights </b> </b>
-💡 Fun Fact:<b> I enjoy solving complex problems & building cool projects </b> </b>
-                                
 I am Anmol Pandey, a third-year Bachelor of Computer Applications (BCA) student at Lovely Professional University, passionate about software development, data analysis, and visualization. With a strong foundation in programming and problem-solving, I have worked on several academic projects that enhanced both my technical and analytical skills.
 
 Some of my key projects include:
