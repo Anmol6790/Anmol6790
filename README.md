@@ -13,7 +13,7 @@ I am Anmol Pandey, a third-year Bachelor of Computer Applications (BCA) student 
 
 Some of my key projects include:
 WHO Dataset Analysis in R – examined global health and life expectancy trends using R programming.
-Amazon Sales Analysis in Power BI – created interactive dashboards, KPIs, and data models to study sales performance.
+ Project 1-:Amazon Sales Analysis in Power BI – created interactive dashboards, KPIs, and data models to study sales performance. </b> </b>
 AI-Based Chatbot for Customer Support – developed a chatbot prototype to improve user interaction as part of my software engineering coursework.
 Job Portal Website – designed a basic job portal using HTML and CSS for frontend development.
 Analyzing Student Depression Using R – performed statistical analysis to identify factors influencing student mental health.
