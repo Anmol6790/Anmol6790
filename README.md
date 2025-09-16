@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-🎓 BCA 2nd Year @ Lovely Professional University <br>
+🎓 BCA 3rd Year @ Lovely Professional University <br>
 📊 Aspiring <b>Data Analyst | Data Scientist</b> <br>
 ✨ Turning <b>Data → Insights </b> </b>
                                 
