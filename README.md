@@ -8,7 +8,7 @@
 🎓 BCA 3rd Year @ Lovely Professional University <br>
 📊 Aspiring <b>Data Analyst | Data Scientist</b> <br>
 ✨ Turning <b>Data → Insights </b> </b>
-💡 Fun Fact: I enjoy solving complex problems & building cool projects  <b>
+💡 Fun Fact: I enjoy solving complex problems & building cool projects </b> </b>
                                 
 I am Anmol Pandey, a third-year Bachelor of Computer Applications (BCA) student at Lovely Professional University, passionate about software development, data analysis, and visualization. With a strong foundation in programming and problem-solving, I have worked on several academic projects that enhanced both my technical and analytical skills.
 
