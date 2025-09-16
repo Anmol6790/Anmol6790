@@ -8,6 +8,21 @@
   🎓 BCA 2nd Year @ Lovely Professional University <br>
   📊 Aspiring <b>Data Analyst | Data Scientist</b> <br>
   ✨ Turning <b>Data → Insights</b>
+  I am Anmol Pandey, a third-year Bachelor of Computer Applications (BCA) student at Lovely Professional University, passionate about software development, data analysis, and visualization. With a strong foundation in programming and problem-solving, I have worked on several academic projects that enhanced both my technical and analytical skills.
+
+Some of my key projects include:
+
+WHO Dataset Analysis in R – examined global health and life expectancy trends using R programming.
+
+Amazon Sales Analysis in Power BI – created interactive dashboards, KPIs, and data models to study sales performance.
+
+AI-Based Chatbot for Customer Support – developed a chatbot prototype to improve user interaction as part of my software engineering coursework.
+
+Job Portal Website – designed a basic job portal using HTML and CSS for frontend development.
+
+Analyzing Student Depression Using R – performed statistical analysis to identify factors influencing student mental health.
+
+I have also completed an internship in R Programming, where I gained hands-on experience in data analysis. Currently, I am learning Tableau and advanced visualization techniques to further strengthen my expertise.
 </p>
 
 ---
