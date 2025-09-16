@@ -30,9 +30,8 @@ I have also completed an internship in R Programming, where I gained hands-on ex
   <a href="https://www.facebook.com/profile.php?id=100015731958127" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 </p>
 
-📫 **Reach Me At:** `anmolpandey6790@gmail.com`
-📫 **Reach Me At Linkedin:** `anmol-pandey-08b864297`
-</p>
+📫**Reach Me At:** `anmolpandey6790@gmail.com`  
+📫**Reach Me At LinkedIn:** `anmol-pandey-08b864297`
 
 ---
 
