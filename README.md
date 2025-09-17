@@ -91,7 +91,7 @@ I am Anmol Pandey, a third-year Bachelor of Computer Applications (BCA) student 
 
 ---
 
-✨ *"Data is the new oil, but insights are the new gold!"*
+✨ **“Data is the mine, but insights are the diamonds.”** 💎
 ---
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
