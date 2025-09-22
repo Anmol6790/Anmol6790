@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="WhatsApp Image 2025-08-20 at 00.20.06_26dfa741.jpg" alt="Anmol Pandey" height="500"/>
+  <img src="WhatsApp Image 2025-08-20 at 00.20.06_26dfa741.jpg" alt="Anmol Pandey" height="400"/>
 </p>
 
 <p align="center">
