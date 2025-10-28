@@ -35,6 +35,7 @@ I am Anmol Pandey, a third-year Bachelor of Computer Applications (BCA) student 
 | **Amazon Sales Analysis in Power BI** | Interactive dashboards with sales KPIs, DAX measures & insights.                 | [View Project](https://app.fabric.microsoft.com/links/xd7b2ar9kO?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare) |
 | **Job Portal Website**             | Simple job portal built using HTML & CSS for frontend design.                    | [View Project](https://job-portal-topaz-nu.vercel.app/index.html) |
 | **Netflix User & Content Analysis** | Power BI dashboard with R integration analyzing churn, engagement & content insights. | [View Project](https://github.com/Anmol6790/Netflix_user_analysis) |
+| **TCS Project Analysis in Power BI** | Comprehensive Power BI dashboard showcasing TCS performance trends & insights.    | [View Project](https://app.fabric.microsoft.com/groups/me/reports/8f012b9e-ecde-430f-8094-7ea012f38327/0ae79e5caeb22ce26ff8?experience=fabric-developer) |
 
 ---
 <h2>📜 Certificates</h2>
